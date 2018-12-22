@@ -1,0 +1,28 @@
+{
+	"name": "ancient",
+	"description": "Just a very simple, old-school theme for Ghost",
+	"version": "0.5.0",
+	"engines": {
+		"ghost": ">=2.0.0"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Dallin Hitchcock",
+		"email": "dallin.hitchcock@gmail.com",
+		"url": "https://dallinhitchcock.com"
+	},
+	"keywords": [
+		"ghost",
+		"theme",
+		"ghost-theme"
+	],
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/dallin/ancient.git"
+    },
+    "bugs": "https://github.com/dallin/ancient/issues",
+    "contributors": "https://github.com/dallin/ancient/graphs/contributors",
+	"config": {
+		"posts_per_page": 15
+	}
+}
