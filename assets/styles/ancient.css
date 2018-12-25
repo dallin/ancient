@@ -1,0 +1,51 @@
+body {
+    font-family: monospace;
+}
+header {
+    /* text-align: center; */
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+header ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+header ul li {
+    display: list-item;
+    /* margin: 0.5rem; */
+}
+
+@media (min-width: 800px) {
+    header ul li {
+        display: inline;
+        /* margin: 0.5rem; */
+    }
+}
+
+.kg-image-card {
+}
+
+.kg-width-wide {
+}
+
+.kg-width-full {
+}
+
+.kg-image {
+}
+
+.kg-embed-card {
+}
+
+.kg-gallery-container {
+}
+
+.kg-gallery-row {
+}
+
+.kg-gallery-image {
+}
